@@ -1,4 +1,8 @@
-### Hi! This is Pearl
+### Hi! 
+
+<!--
+
+This is Pearl
 I'm a 2nd year Computer Science student at CUHK.
 
 <💻/> interests: web & game development
@@ -7,7 +11,6 @@ I'm a 2nd year Computer Science student at CUHK.
 
 <💬/> talk to me about anything! find my email and linkedin in my profile!
 
-<!--
 **pearlpisut/pearlpisut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
