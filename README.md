@@ -1,9 +1,9 @@
 ### Hi! 
-
-<!--
-
 This is Pearl
-I'm a 2nd year Computer Science student at CUHK.
+I'm a 3rd year Computer Science student at CUHK.
+
+Check out my pinned repo below ;)
+<!--
 
 <💻/> interests: web & game development
 
