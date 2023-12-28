@@ -2,7 +2,11 @@
 This is Pearl
 I'm a 3rd year Computer Science student at CUHK.
 
-Check out my pinned repo below ;)
+Check out my pinned repos below ;)
+
+• Previous work experience: Full Stack Development;
+
+• Currently, I'm looking forward to enriching my skills in AI/ML in the incoming semester and through self-learning.
 <!--
 
 <💻/> interests: web & game development
