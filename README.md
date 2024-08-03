@@ -1,8 +1,8 @@
 ### Hi! 
 This is Pearl
-I'm a 3rd year Computer Science student at CUHK.
+I'm a final year Computer Science student at CUHK.
 
-Check out my pinned repos below ;)
+Check out my website and pinned repos below ;)
 
 • Previous work experience: Full Stack Development;
 
